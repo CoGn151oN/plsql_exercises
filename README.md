@@ -7,44 +7,21 @@
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/CoGn151oN/plsql_exercises/blob/main/Docs/db2.pdf">db2.pdf</a>
+                <a href="https://github.com/CoGn151oN/plsql_exercises/blob/main/Docs/db2.pdf" target="_blank">db2.pdf</a>
             </td>
             <td>
-                <a href="">solution_db2</a>
+                <a href="" target="_blank">solution_db2</a>
             </td>
         </tr>
         <tr>
             <td>
-                <a href=""></a>
+                <a href="" target="_blank"></a>
             </td>
             <td>
-                <a href=""></a>
+                <a href="" target="_blank"></a>
             </td>
         </tr>
-        <tr>
-            <td>
-                <a href=""></a>
-            </td>
-            <td>
-                <a href=""></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href=""></a>
-            </td>
-            <td>
-                <a href=""></a>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <a href=""></a>
-            </td>
-            <td>
-                <a href=""></a>
-            </td>
-        </tr>
+    
     </table>
 
 
