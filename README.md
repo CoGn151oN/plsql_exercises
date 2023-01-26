@@ -23,7 +23,7 @@
         </tr>
             <tr>
             <td>
-                <a href="https://github.com/CoGn151oN/plsql_exercises/blob/2c526578cf026661afbba97b13d05793058ee131/Docs/gy_2.pdf" target="_blank">gy2.pdf</a>
+                <a href="https://github.com/CoGn151oN/plsql_exercises/blob/2c526578cf026661afbba97b13d05793058ee131/Docs/gy_2.pdf" target="_blank">gy_2.pdf</a>
             </td>
             <td>
                 <a href="" target="_blank"></a>
@@ -31,7 +31,7 @@
         </tr>
             <tr>
             <td>
-                <a href="https://github.com/CoGn151oN/plsql_exercises/blob/2c526578cf026661afbba97b13d05793058ee131/Docs/gy_3.pdf" target="_blank">gy3.pdf</a>
+                <a href="https://github.com/CoGn151oN/plsql_exercises/blob/2c526578cf026661afbba97b13d05793058ee131/Docs/gy_3.pdf" target="_blank">gy_3.pdf</a>
             </td>
             <td>
                 <a href="" target="_blank"></a>
