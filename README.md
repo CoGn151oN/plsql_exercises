@@ -47,5 +47,5 @@
         </tr>
     </table>
 
-
+Basic practice exercises are in the <a href="https://github.com/CoGn151oN/plsql_exercises/tree/main/Exercises">Exercises</a> folder.<br>
 All exercises are part of the EKKE Computer Science BSC curriculum from 2022.
