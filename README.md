@@ -7,7 +7,7 @@
         </tr>
         <tr>
             <td>
-                <a href="https://github.com/CoGn151oN/plsql_exercises/blob/main/Docs/db2.pdf" target="_blank">db2.pdf</a>
+                <a target="_blank" href="https://github.com/CoGn151oN/plsql_exercises/blob/main/Docs/db2.pdf">db2.pdf</a>
             </td>
             <td>
                 <a href="" target="_blank">solution_db2</a>
